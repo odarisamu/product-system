@@ -1,0 +1,3 @@
+adicionar codigo fonte do banco de dados e modelo conceitual, lembrar de mudar o nome do banco
+descrever a estrutura do programa com um diagrama de classes
+mudar os comentários/adicionar novos em inglês
