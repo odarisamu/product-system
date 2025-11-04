@@ -6,6 +6,11 @@ Ele pode ser ampliado conforme regras de negócio do ambiente de trabalho, como,
 
 ### Database 🎲
 O banco de dados é modelado com um servidor MYSQL utilizando uma relação produto que armazena as informações relevantes dessa entidade.
+O modelo entidade-relacionamento segue o padrão abaixo:
+<p align = "center">
+<img width="676" height="391" alt="ER model" src="https://github.com/user-attachments/assets/46cc7329-1905-4e32-9988-ed740779c377" />
+</p>
+
 Em consonância com a aplicação, ele também pode ser expandido conforme as necessidades do cliente.
 
 ### Requeriments ✅
