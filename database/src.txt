@@ -1,0 +1,8 @@
+// Source code to create the database product system
+
+CREATE TABLE product(
+    id INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    quantity INT NOT NULL,
+    value DOUBLE(10, 2) NOT NULL,
+    PRIMARY KEY(id));
