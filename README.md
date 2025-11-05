@@ -3,15 +3,16 @@
 ### The Program 🌎
 This program helps small empresas a administrarem seus produtos de maneira expansível conforme as necessidades específicas. Ele fornece uma estrutura-base para o gerenciamento de sistemas de produtos de um modo geral.
 Ele pode ser ampliado conforme regras de negócio do ambiente de trabalho, como, contato com os fornecedores, localidade do produto entre outras aplicabilidades. 
+COLOCAR UM DIAGRAMA DE CLASSES
 
 ### Database 🎲
-O banco de dados é modelado com um servidor MYSQL utilizando uma relação produto que armazena as informações relevantes dessa entidade.
-O modelo entidade-relacionamento segue o padrão abaixo:
+The database is modeled using a MYSQL server and includes a product relation that stores all relevant information about this entity.
+The entity-relationship (ER) model follows the structure shown below:
 <p align = "center">
 <img width="676" height="391" alt="ER model" src="https://github.com/user-attachments/assets/46cc7329-1905-4e32-9988-ed740779c377" />
 </p>
 
-Em consonância com a aplicação, ele também pode ser expandido conforme as necessidades do cliente.
+In line with the application, the database can be expanded to meet the client's requeriments.
 
 ### Requeriments ✅
 A máquina para rodar o programa deve possuir:
