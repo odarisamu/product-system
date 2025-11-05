@@ -9,7 +9,7 @@ COLOCAR UM DIAGRAMA DE CLASSES
 The database is modeled using a MYSQL server and includes a product relation that stores all relevant information about this entity.
 The entity-relationship (ER) model follows the structure shown below:
 <p align = "center">
-<img width="676" height="391" alt="ER model" src="https://github.com/user-attachments/assets/46cc7329-1905-4e32-9988-ed740779c377" />
+<img width="633" height="372" alt="ER model" src="https://github.com/user-attachments/assets/dfa6f285-e0a4-4e44-bb35-d48d83946005" />
 </p>
 
 In line with the application, the database can be expanded to meet the client's requeriments.
