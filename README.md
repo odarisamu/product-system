@@ -15,11 +15,11 @@ The entity-relationship (ER) model follows the structure shown below:
 In line with the application, the database can be expanded to meet the client's requeriments.
 
 ### Requeriments ✅
-A máquina para rodar o programa deve possuir:
-- JDK 8 no mínimo instalado;
--> Obtido em: "https://www.oracle.com/br/java/technologies/downloads".
-- MYSQL Server e MYSQL WorkBench instalados;
--> Obtido em: "https://www.mysql.com/downloads";
-- Para melhor administração, recomenda-se um IDE;
--> Alguns são: "https://code.visualstudio.com", "https://eclipseide.org".
+To run the program, the machine must have:
+- JDK 8 or higher installed
+-> Download from: "https://www.oracle.com/br/java/technologies/downloads"
+- MYSQL Server and MYSQL WorkBench installed
+-> Download from: "https://www.mysql.com/downloads"
+- (Optional) An IDE is recommended for better project management
+-> Examples: "https://code.visualstudio.com", "https://eclipseide.org".
 
